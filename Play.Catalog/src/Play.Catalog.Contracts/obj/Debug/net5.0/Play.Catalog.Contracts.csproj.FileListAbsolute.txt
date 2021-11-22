@@ -1,0 +1,12 @@
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.deps.json
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.dll
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\ref\Play.Catalog.Contracts.dll
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.pdb
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.csproj.AssemblyReference.cache
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfo.cs
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.dll
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\ref\Play.Catalog.Contracts.dll
+D:\KOKAAR\IT\Projects\Learning\Udemy\Building Microservices with .NET - The Basics\akk\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.pdb
